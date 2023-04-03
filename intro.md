@@ -2,6 +2,8 @@ Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo temp
 
 A ordem dos tratores não altera o pão duris.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!Cevadis im ampola pa arma uma pindureta.Paisis, filhis, espiritis santis.
 
-Manduma pindureta quium dia nois paga.Per aumento de cachacis, eu reclamis.Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!Delegadis gente finis, bibendum egestas augue arcu ut est.
+Caso o seu momento na construção do produto seja de muita incerteza é melhor ir a campo, fazer entrevistas, levantar dados qualitativos e realizar todo o processo de discovery necessário.
 
-In elementis mé pra quem é amistosis quis leo.Cevadis im ampola pa arma uma pindureta.Diuretics paradis num copo é motivis de denguis.Detraxit consequat et quo num tendi nada.
+Mas se já tem algumas hipóteses validadas e um número alto de dados para serem processados, você deverá fazer uma análise quantitativa.
+
+E qual métrica quantitativa deve ser usada para  acompanhar a etapa do ciclo de vida de um  produto? Para isso usaremos um framework para métricas.
