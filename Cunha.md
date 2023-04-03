@@ -22,3 +22,4 @@ B=6
 var1=var1+var2
 
 O contador é uma variável numérica para contar algo. Um acumulador é uma variável numérica para somar um valor a algo. Normalmente tanto contadores como acumuladores são inicializados com o número  zero(0).
+Muito bom
