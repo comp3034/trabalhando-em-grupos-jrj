@@ -1,4 +1,6 @@
-Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis!Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+Bandido não dança
+
+
 
 Areia tá branca, chama elas pra colar
 Mas não se espanta quando ver nóis dois passar
